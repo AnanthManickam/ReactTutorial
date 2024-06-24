@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\reacttutorial.client\reacttutorial.client.esproj">
+    <ProjectReference Include="..\reacttutorial.client\ReactTutorial.Client.esproj">
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
   </ItemGroup>
