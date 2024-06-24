@@ -1,0 +1,6 @@
+@ReactTutorial.Server_HostAddress = http://localhost:5088
+
+GET {{ReactTutorial.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
